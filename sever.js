@@ -1,6 +1,6 @@
 'use strict';
 /* ═══════════════════════════════════════════════════════
-   AURORA ORACLE · SUPREME API v4.1
+   AURORA ORACLE · SUPREME API sever
    78 algorithms · parity voting · auto-settle · auto-skip
    FIX: 502 retry + stale cache + background poller
    ═══════════════════════════════════════════════════════ */
