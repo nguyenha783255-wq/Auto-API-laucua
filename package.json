@@ -2,13 +2,13 @@
   "name": "aurora-oracle-api",
   "version": "4.1.0",
   "description": "Aurora Oracle · Supreme API v4.1 — 78 algorithms · parity voting · auto-settle · auto-skip",
-  "main": "auto.js",
+  "main": "v41.js",
   "author": "@DENIUS09",
   "license": "MIT",
 
   "scripts": {
     "start": "node v41.js",
-    "dev": "node --watch v41js",
+    "dev": "node --watch v41.js",
     "prod": "NODE_ENV=production node v41.js"
   },
 
@@ -29,16 +29,5 @@
     "prediction",
     "api",
     "denius"
-  ],
-
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/your-username/aurora-oracle.git"
-  },
-
-  "bugs": {
-    "url": "https://github.com/your-username/aurora-oracle/issues"
-  },
-
-  "homepage": "https://github.com/your-username/aurora-oracle#readme"
+  ]
 }
