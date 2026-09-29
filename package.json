@@ -1,21 +1,44 @@
 {
-  "name": "denius-md5-api",
-  "version": "3.0.0",
-  "description": "API Tài Xỉu MD5 Siêu VIP - Ultra Bridge & Cycle Breaker Pro Max",
-  "main": "v41.js",
+  "name": "aurora-oracle-api",
+  "version": "4.1.0",
+  "description": "Aurora Oracle · Supreme API v4.1 — 78 algorithms · parity voting · auto-settle · auto-skip",
+  "main": "auto.js",
+  "author": "@DENIUS09",
+  "license": "MIT",
+
   "scripts": {
     "start": "node v41.js",
-    "dev": "nodemon v41.js"
+    "dev": "node --watch v41js",
+    "prod": "NODE_ENV=production node auto.js"
   },
+
+  "engines": {
+    "node": ">=18.0.0"
+  },
+
   "dependencies": {
-    "axios": "^1.6.2",
     "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "node-cache": "^5.1.2"
+    "express": "^4.19.2"
   },
-  "devDependencies": {
-    "nodemon": "^3.0.2"
+
+  "keywords": [
+    "aurora",
+    "oracle",
+    "md5",
+    "tai-xiu",
+    "prediction",
+    "api",
+    "denius"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/aurora-oracle.git"
   },
-  "author": "@DENIUS09",
-  "license": "MIT"
+
+  "bugs": {
+    "url": "https://github.com/your-username/aurora-oracle/issues"
+  },
+
+  "homepage": "https://github.com/your-username/aurora-oracle#readme"
 }
