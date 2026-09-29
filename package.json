@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node v41.js",
     "dev": "node --watch v41js",
-    "prod": "NODE_ENV=production node auto.js"
+    "prod": "NODE_ENV=production node v41.js"
   },
 
   "engines": {
