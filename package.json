@@ -1,0 +1,21 @@
+{
+  "name": "denius-md5-api",
+  "version": "3.0.0",
+  "description": "API Tài Xỉu MD5 Siêu VIP - Ultra Bridge & Cycle Breaker Pro Max",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-cache": "^5.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "author": "@DENIUS09",
+  "license": "MIT"
+}
